@@ -1,2 +1,2 @@
-"# BMI_Calc" 
-"# BMI_Calc" 
+BMI Calculator using React.js
+Sahil Bambarde
